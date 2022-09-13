@@ -1,16 +1,3 @@
 body {
     background-color: rgb(121, 185, 216);
 }
-
-.name {
-    background-color: black;
-    width: 200px;
-    height: 200px;
-    color: white;
-}
-
-div {
-    background-color: blueviolet;
-    width: 100px;
-    height: 100px;
-}
